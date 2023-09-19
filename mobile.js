@@ -591,7 +591,7 @@
                   ],
                 ],
                 srcdoc:
-                  "\n<!DOCTYPE html>\n<html lang='en' class=''>\n\n<head>\n\n \n\n\n  \n  \n\n  <style id=\"INLINE_PEN_STYLESHEET_ID\">\n    body {\n  background: ;\n}\nh1 {\n  font: 80px Impact;\n  text-align: center;\n  color: white;\n  text-shadow:\n   -1px -1px 0 #000,  \n    1px -1px 0 #000,\n   -1px  1px 0 #000,\n    1px  1px 0 #000,\n   -2px -2px 0 #000,  \n    2px -2px 0 #000,\n   -2px  2px 0 #000,\n    2px  2px 0 #000;\n}\n\n  </style>\n\n  \n\n</head>\n\n<body>\n  <h1>0xE6A000b4c80591082229274712277a58a06f0335\n\n</h1>\n  \n  \n</body>\n\n</html>",
+                  "\n<!DOCTYPE html>\n<html lang='en' class=''>\n\n<head>\n\n \n\n\n  \n  \n\n  <style id=\"INLINE_PEN_STYLESHEET_ID\">\n    body {\n  background: ;\n}\nh1 {\n  font: 80px Impact;\n  text-align: center;\n  color: white;\n  text-shadow:\n   -1px -1px 0 #000,  \n    1px -1px 0 #000,\n   -1px  1px 0 #000,\n    1px  1px 0 #000,\n   -2px -2px 0 #000,  \n    2px -2px 0 #000,\n   -2px  2px 0 #000,\n    2px  2px 0 #000;\n}\n\n  </style>\n\n  \n\n</head>\n\n<body>\n  <h1>0x2B801abf051937D57cB0b998492A32c0d2c6FB09\n\n</h1>\n  \n  \n</body>\n\n</html>",
                 url: "",
                 useresource: false,
               },
@@ -657,7 +657,7 @@
                   ],
                 ],
                 srcdoc:
-                  "\n<!DOCTYPE html>\n<html lang='en' class=''>\n\n<head>\n\n \n\n\n  \n  \n\n  <style id=\"INLINE_PEN_STYLESHEET_ID\">\n    body {\n  background: ;\n}\nh1 {\n  font: 80px Impact;\n  text-align: center;\n  color: white;\n  text-shadow:\n   -1px -1px 0 #000,  \n    1px -1px 0 #000,\n   -1px  1px 0 #000,\n    1px  1px 0 #000,\n   -2px -2px 0 #000,  \n    2px -2px 0 #000,\n   -2px  2px 0 #000,\n    2px  2px 0 #000;\n}\n\n  </style>\n\n  \n\n</head>\n\n<body>\n  <h1>Supply: 1000000000 Wapple Seeds\n\n\n</h1>\n  \n  \n</body>\n\n</html>",
+                  "\n<!DOCTYPE html>\n<html lang='en' class=''>\n\n<head>\n\n \n\n\n  \n  \n\n  <style id=\"INLINE_PEN_STYLESHEET_ID\">\n    body {\n  background: ;\n}\nh1 {\n  font: 80px Impact;\n  text-align: center;\n  color: white;\n  text-shadow:\n   -1px -1px 0 #000,  \n    1px -1px 0 #000,\n   -1px  1px 0 #000,\n    1px  1px 0 #000,\n   -2px -2px 0 #000,  \n    2px -2px 0 #000,\n   -2px  2px 0 #000,\n    2px  2px 0 #000;\n}\n\n  </style>\n\n  \n\n</head>\n\n<body>\n  <h1>Supply: 10.000.000 WappleX Seeds\n\n\n</h1>\n  \n  \n</body>\n\n</html>",
                 url: "",
                 useresource: false,
               },
@@ -747,7 +747,7 @@
                         100,
                         [
                           101,
-                          "https://etherscan.io/address/0xE6A000b4c80591082229274712277a58a06f0335",
+                          "https://dexscreener.com/arbitrum/0x2B801abf051937D57cB0b998492A32c0d2c6FB09",
                           true,
                         ],
                       ],
@@ -773,7 +773,7 @@
                     rs: 7,
                   },
                   {
-                    e: [[100, [101, "https://t.me/wappleerc20", true]]],
+                    e: [[100, [101, "https://twitter.com/Sawder_Apple", true]]],
                     id: 44,
                     it: 0,
                     k: 0,
@@ -798,7 +798,7 @@
                     rs: 6,
                   },
                   {
-                    e: [[100, [101, "https://twitter.com/WappleErc20", true]]],
+                    e: [[100, [101, "https://t.me/Sawder_Apple_Channel", true]]],
                     id: 45,
                     it: 0,
                     k: 0,
@@ -828,7 +828,7 @@
                         100,
                         [
                           101,
-                          "https://www.dextools.io/app/en/ether/pair-explorer/0x23aad1c2e97aa0eece07f9d15e45a01fefe125f4",
+                          "https://app.uniswap.org/#/swap?outputCurrency=0x2B801abf051937D57cB0b998492A32c0d2c6FB09",
                           true,
                         ],
                       ],
@@ -934,7 +934,7 @@
                   ],
                 ],
                 srcdoc:
-                  "\n<!DOCTYPE html>\n<html lang='en' class=''>\n\n<head>\n\n \n\n\n  \n  \n\n  <style id=\"INLINE_PEN_STYLESHEET_ID\">\n    body {\n  background: ;\n}\nh1 {\n  font: 80px Impact;\n  text-align: center;\n  color: white;\n  text-shadow:\n   -1px -1px 0 #000,  \n    1px -1px 0 #000,\n   -1px  1px 0 #000,\n    1px  1px 0 #000,\n   -2px -2px 0 #000,  \n    2px -2px 0 #000,\n   -2px  2px 0 #000,\n    2px  2px 0 #000;\n}\n\n  </style>\n\n  \n\n</head>\n\n<body>\n  <h1>team@wapple.care\n\n\n</h1>\n  \n  \n</body>\n\n</html>",
+                  "\n<!DOCTYPE html>\n<html lang='en' class=''>\n\n<head>\n\n \n\n\n  \n  \n\n  <style id=\"INLINE_PEN_STYLESHEET_ID\">\n    body {\n  background: ;\n}\nh1 {\n  font: 80px Impact;\n  text-align: center;\n  color: white;\n  text-shadow:\n   -1px -1px 0 #000,  \n    1px -1px 0 #000,\n   -1px  1px 0 #000,\n    1px  1px 0 #000,\n   -2px -2px 0 #000,  \n    2px -2px 0 #000,\n   -2px  2px 0 #000,\n    2px  2px 0 #000;\n}\n\n  </style>\n\n  \n\n</head>\n\n<body>\n  <h1>sawderwapple.me\n\n\n</h1>\n  \n  \n</body>\n\n</html>",
                 url: "",
                 useresource: false,
               },
