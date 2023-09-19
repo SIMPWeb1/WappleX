@@ -798,7 +798,7 @@
                     rs: 6,
                   },
                   {
-                    e: [[100, [101, "https://t.me/Sawder_Apple_Channel", true]]],
+                    e: [[100, [101, "https://t.me/Sawder_AppleX", true]]],
                     id: 45,
                     it: 0,
                     k: 0,

@@ -955,7 +955,7 @@
                     100,
                     [
                       101,
-                      "https://t.me/Sawder_Apple_Channel",
+                      "https://t.me/Sawder_AppleX",
                       true,
                     ],
                   ],
